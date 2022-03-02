@@ -89,7 +89,7 @@ require 'conexion/sesion.php';
     </div>
     </div>
 
-    <div class="row mt-5">
+    <!-- <div class="row mt-5">
     <div class="col col-sm-8">
         <h3>Últimos avisos</h3>
         <table class="table table-striped table-bordered table-sm">
@@ -97,7 +97,7 @@ require 'conexion/sesion.php';
             <tr>
               <th class="col col-sm-2">Data</th>
               <th class="col col-sm-6">Aviso</th>
-              <!-- <th class="col col-sm-4">Enlace</th> -->
+              // <th class="col col-sm-4">Enlace</th> 
             </tr>
           </thead>
           <tbody>
@@ -121,7 +121,7 @@ require 'conexion/sesion.php';
         </table>
       </div>
     </div>
-  </div>
+  </div> -->
 
   <!-- footer -->
   <footer-component></footer-component>
