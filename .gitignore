@@ -1,0 +1,11 @@
+node_modules/
+
+.browserslistrc
+.stylelintrc
+.stylelintignore
+.editorconfig
+
+package-lock.json
+
+assets/
+scss/
