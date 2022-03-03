@@ -76,13 +76,22 @@ require 'conexion/sesion.php';
     </div>
 
     <!-- <div class="row mt-5">
+<<<<<<< HEAD
       <div class="col col-sm-8">
         <h4>Últimos avisos</h4>
+=======
+    <div class="col col-sm-8">
+        <h3>Últimos avisos</h3>
+>>>>>>> ce9efd0795756c9bff01c0370a4b3ad713aa2943
         <table class="table table-striped table-bordered table-sm">
           <thead>
             <tr>
               <th class="col col-sm-2">Data</th>
               <th class="col col-sm-6">Aviso</th>
+<<<<<<< HEAD
+=======
+              // <th class="col col-sm-4">Enlace</th> 
+>>>>>>> ce9efd0795756c9bff01c0370a4b3ad713aa2943
             </tr>
           </thead>
           <tbody>
@@ -105,8 +114,13 @@ require 'conexion/sesion.php';
           </tbody>
         </table>
       </div>
+<<<<<<< HEAD
     </div> -->
   </div>
+=======
+    </div>
+  </div> -->
+>>>>>>> ce9efd0795756c9bff01c0370a4b3ad713aa2943
 
   <!-- footer -->
   <footer-component></footer-component>
