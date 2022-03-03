@@ -1,2 +1,2 @@
 # Demo obra 0204
- Nueva obra
+Versión 2.0 de la obra. (Imágenes y actualizaciones en obra final).
